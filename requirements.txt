@@ -1,0 +1,8 @@
+pandas
+# textwrap
+tqdm
+requests
+numpy
+PyYAML
+openpyxl
+scikit-learn
